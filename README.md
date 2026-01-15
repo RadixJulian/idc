@@ -17,10 +17,11 @@ npm i
 
 ### Run the Application
 ```bash
-flask --app main run
+gunicorn main:app
 ```
 
 ### Build Tailwind CSS
 ```bash
 npx @tailwindcss/cli -i ./static/style.css -o ./static/output.css --watch
+
 ```
