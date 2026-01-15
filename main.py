@@ -1,7 +1,14 @@
 import json
+import os
 from flask import Flask, render_template
 
-app = Flask(__name__)
+app = Flask(__name__, template_folder='templates')
+
+print('APP ROOT_PATH =', app.root_path)
+try:
+    print('TEMPLATES DIR LISTING =', os.listdir(os.path.join(app.root_path, 'templates')))
+except Exception as e:
+    print('TEMPLATES LISTING ERROR:', e)
 
 with open('projects.json', 'r') as f:
     projects = json.load(f)
