@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "projectlogo": "images/tmp_pfp.png",
+        "projectname": "Aurora Dashboard",
+        "projectyear": 2024,
+        "mini_description": "A responsive admin dashboard built with Tailwind and Flask.",
+        "tags": ["Flask", "Tailwind", "Dashboard"],
+        "preview": "images/tmp_pfp.png",
+        "description": "Aurora Dashboard is a lightweight admin interface for monitoring application metrics, managing users, and viewing logs. Built with a focus on accessibility and responsive layouts."
+    },
+    {
+        "id": 2,
+        "projectlogo": "images/tmp_pfp.png",
+        "projectname": "Pixel Portfolio",
+        "projectyear": 2023,
+        "mini_description": "A personal portfolio template with animations and gallery.",
+        "tags": ["HTML", "CSS", "JavaScript"],
+        "preview": "images/tmp_pfp.png",
+        "description": "Pixel Portfolio showcases projects with a filterable gallery, animated transitions, and contact integration. Ideal for designers and small studios."
+    },
+    {
+        "id": 3,
+        "projectlogo": "images/tmp_pfp.png",
+        "projectname": "ShopSwift",
+        "projectyear": 2022,
+        "mini_description": "Prototype e-commerce storefront with cart and checkout flow.",
+        "tags": ["React", "Stripe", "E-commerce"],
+        "preview": "images/tmp_pfp.png",
+        "description": "ShopSwift is a demo storefront demonstrating product lists, cart management, and a mock Stripe-powered checkout for rapid prototyping."
+    },
+    {
+        "id": 4,
+        "projectlogo": "images/tmp_pfp.png",
+        "projectname": "StudyBuddy",
+        "projectyear": 2025,
+        "mini_description": "A study scheduler and flashcard app to boost retention.",
+        "tags": ["Python", "SQLite", "Productivity"],
+        "preview": "images/tmp_pfp.png",
+        "description": "StudyBuddy helps plan study sessions, create spaced-repetition flashcards, and track progress across subjects. Includes export/import functionality."
+    },
+    {
+        "id": 5,
+        "projectlogo": "images/tmp_pfp.png",
+        "projectname": "EventPulse",
+        "projectyear": 2021,
+        "mini_description": "Real-time event listings and RSVP microservice.",
+        "tags": ["Node", "WebSocket", "API"],
+        "preview": "images/tmp_pfp.png",
+        "description": "EventPulse streams live event updates to clients, supports RSVPs, and exposes a REST API for integration with other services."
+    },
+    {
+        "id": 6,
+        "projectlogo": "images/tmp_pfp.png",
+        "projectname": "Lens Lab",
+        "projectyear": 2020,
+        "mini_description": "Image-processing experiments and filter playground.",
+        "tags": ["Python", "OpenCV", "PIL"],
+        "preview": "images/tmp_pfp.png",
+        "description": "Lens Lab contains small utilities and demos for image transformations, filters, and basic computer vision experiments."
+    }
+]
